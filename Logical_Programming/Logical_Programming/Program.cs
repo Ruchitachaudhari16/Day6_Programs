@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Fibonacci.GetSeries();
+           PerfectNo.Perfect_Nocheck();
         }
     }
 }
