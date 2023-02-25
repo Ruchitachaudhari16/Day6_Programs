@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Reverseno.Check();
+            StopWatch.Time_Check();
         }
     }
 }
