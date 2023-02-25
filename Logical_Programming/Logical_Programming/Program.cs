@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-           PerfectNo.Perfect_Nocheck();
+            Reverseno.Check();
         }
     }
 }
